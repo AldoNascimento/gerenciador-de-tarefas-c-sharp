@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mh7Vf9vxnb51nDyhrTrVQuZC/Mq1eqDkLtCm8XOLSWAdDvbBk9rlh3VesXn4W6D4bzuL52Cshm5aH8yAz9mtLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aldop\\Repositorios\\Devaria Projetos\\gerenciador-de-tarefas-c-sharp\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aldop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aldop\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\aldop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\aldop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\aldop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
