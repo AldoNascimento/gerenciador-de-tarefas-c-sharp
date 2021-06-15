@@ -27,3 +27,10 @@ C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\Gere
 C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net5.0\ref\GerenciadorDeTarefas.dll
 C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net5.0\GerenciadorDeTarefas.pdb
 C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net5.0\GerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aldop\Repositorios\Devaria Projetos\gerenciador-de-tarefas-c-sharp\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
